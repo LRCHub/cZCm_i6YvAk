@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "For the First Time",
+  "base_artist": "Mac DeMarco",
+  "createdAt": "2026-01-08T18:54:20.650807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/01_For_the_First_Time_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Halle",
+      "has_synced": true,
+      "path": "select/02_For_the_First_Time_Halle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "DANIELLE",
+      "has_synced": true,
+      "path": "select/03_For_the_First_Time_DANIELLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "TheScriptVEVO",
+      "has_synced": true,
+      "path": "select/04_For_the_First_Time_TheScriptVEVO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For The First Time",
+      "artist": "Loggins, Kenny",
+      "has_synced": true,
+      "path": "select/05_For_The_First_Time_Loggins,_Kenny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/06_For_the_First_Time_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "The Script",
+      "has_synced": true,
+      "path": "select/07_For_the_First_Time_The_Script.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "For The First Time",
+      "artist": "Script",
+      "has_synced": true,
+      "path": "select/08_For_The_First_Time_Script.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/09_For_the_First_Time_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Lenny Kravitz",
+      "has_synced": false,
+      "path": "select/10_For_the_First_Time_Lenny_Kravitz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Kravitz, Lenny",
+      "has_synced": false,
+      "path": "select/11_For_the_First_Time_Kravitz,_Lenny.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Westbound Train",
+      "has_synced": false,
+      "path": "select/12_For_the_First_Time_Westbound_Train.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/13_For_the_First_Time_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "The Script",
+      "has_synced": true,
+      "path": "select/14_For_the_First_Time_The_Script.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/15_For_the_First_Time_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "For The First Time",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/16_For_The_First_Time_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Flying for the First Time",
+      "artist": "Elenowen",
+      "has_synced": true,
+      "path": "select/17_Flying_for_the_First_Time_Elenowen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "For the First Time",
+      "artist": "The Script",
+      "has_synced": true,
+      "path": "select/18_For_the_First_Time_The_Script.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For The First Time",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/pl_01_For_The_First_Time_Mac_DeMarco.txt"
+    }
+  ]
+}
