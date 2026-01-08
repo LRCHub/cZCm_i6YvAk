@@ -1,0 +1,34 @@
+# Mac DeMarco – For the First Time
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.47] While she's been away
+[00:03.11] Living day-to-day has been tough
+[00:12.63] I found her at my side
+[00:15.92] Simply being alive has been rough
+[00:32.42] 
+[00:24.73] Know she won't be gone forever
+[00:28.61] There are many times I find it feels that way
+[00:37.54] And I'm not trying to forget her
+[00:41.48] Just understand how I'll be feeling on that day
+[01:04.98] 
+[00:49.40] It's just like seeing her for the first time again
+[01:01.98] It's just like seeing her for the first time again
+[01:26.98] 
+[01:16.48] The time she's not around
+[01:19.45] Somewhere out-of-town has been hard
+[01:36.95] 
+[01:29.04] But somehow this old heart found time to work it out this far
+[01:59.54] 
+[01:40.99] No, I know she's coming home soon
+[01:45.04] There are times I find it hard to feel that way
+[01:53.71] It's not inside me to forget her
+[01:57.69] Just understand how I'll be feeling on that day
+[02:21.19] 
+[02:05.65] It's just like seeing her for the first time again
+[02:18.32] It's just like seeing her for the first time again
+[02:43.32] 
+[02:31.02] It's just like seeing her for the first time again
+[02:43.64] It's just like seeing her for the first time again
+```
